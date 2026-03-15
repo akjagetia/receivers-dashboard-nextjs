@@ -1,0 +1,38 @@
+[
+  {
+    "name": "John Bonham",
+    "email": "john@email.com",
+    "phone": "+1 555-123-4567",
+    "address": "Main Street Branch, Springfield",
+    "customer_id": "CUST-1001",
+    "type": "Individual",
+    "accounts": [
+      { "number": "1982631287368", "currency": "AED" },
+      { "number": "1982631287369", "currency": "USD" },
+      { "number": "1982631287367", "currency": "CAD" }
+    ],
+    "bank": {
+      "country": "United States",
+      "bank_name": "Bank of America",
+      "branch": "Main Street Branch",
+      "swift": "KJA98127"
+    }
+  },
+  {
+    "name": "Emily Carter",
+    "email": "emily.carter@example.com",
+    "phone": "+1 555-987-6543",
+    "address": "456 Elm St, Metropolis",
+    "customer_id": "CUST-1002",
+    "type": "Individual",
+    "accounts": [
+      { "number": "2982631287368", "currency": "AED" }
+    ],
+    "bank": {
+      "country": "United Arab Emirates",
+      "bank_name": "Emirates NBD",
+      "branch": "Dubai Branch",
+      "swift": "EMIR1234"
+    }
+  }
+]

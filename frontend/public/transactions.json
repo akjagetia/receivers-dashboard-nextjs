@@ -1,0 +1,57 @@
+[
+  {
+    "date_time": "Apr 19 2025 | 14:30",
+    "request_id": "TXN-1001",
+    "type": "Send Money (International)",
+    "to": "John Bonham",
+    "customer_id": "CUST-1001",
+    "to_account": "1982631287368",
+    "currency": "AED",
+    "amount": "AED 12,000.00",
+    "status": "success"
+  },
+  {
+    "date_time": "Apr 20 2025 | 09:15",
+    "request_id": "TXN-1002",
+    "type": "Receive Money",
+    "to": "John Bonham",
+    "customer_id": "CUST-1001",
+    "to_account": "1982631287368",
+    "currency": "USD",
+    "amount": "USD 1,200.00",
+    "status": "success"
+  },
+  {
+    "date_time": "Apr 21 2025 | 11:05",
+    "request_id": "TXN-1003",
+    "type": "Payment",
+    "to": "John Bonham",
+    "customer_id": "CUST-1001",
+    "to_account": "1982631287368",
+    "currency": "CAD",
+    "amount": "CAD 3,450.00",
+    "status": "failed"
+  },
+  {
+    "date_time": "Apr 22 2025 | 16:20",
+    "request_id": "TXN-2001",
+    "type": "Send Money (Domestic)",
+    "to": "Emily Carter",
+    "customer_id": "CUST-1002",
+    "to_account": "2982631287368",
+    "currency": "AED",
+    "amount": "AED 5,000.00",
+    "status": "success"
+  },
+  {
+    "date_time": "Apr 23 2025 | 08:40",
+    "request_id": "TXN-2002",
+    "type": "Withdrawal",
+    "to": "Emily Carter",
+    "customer_id": "CUST-1002",
+    "to_account": "2982631287368",
+    "currency": "AED",
+    "amount": "AED 2,000.00",
+    "status": "success"
+  }
+]
