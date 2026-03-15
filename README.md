@@ -1,5 +1,3 @@
-yarn dev
-echo "Hello from XAMPP htdocs!" > /Applications/XAMPP/htdocs/hello.txt
 # Test Dashboard (Next.js)
 
 This repository is a small Next.js app that demonstrates a transactions dashboard which can read JSON produced from a PHP/XAMPP htdocs location (or from bundled sample JSON). It includes a transactions UI, a customer details modal with account filters, and a small SSE endpoint to stream updates during development.
